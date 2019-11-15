@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote_MatchingScene
+  m_EditorClassIdentifier: 
+  m_GroupName: Remote_MatchingScene
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 01cfe42465bdcbc4ab269f4edaa09f33
+  m_SerializeEntries:
+  - m_GUID: 480a94f9fa8ae6840b1af1295bd23e14
+    m_Address: Matching Scene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Matching Scene
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b114abfc82b556c479aad0d0860ea55a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5f6c35c9cecca894185c64a099c7ce3d, type: 2}
+    - {fileID: 11400000, guid: 5927575d58d05084dbb5c10f9673e5f0, type: 2}
